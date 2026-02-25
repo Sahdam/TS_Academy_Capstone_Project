@@ -71,10 +71,10 @@ basket_price = eggs + 3×beans + 4×bread + 2×chicken + 4×garri + 2×maize
 | Role | Section | Notebook | Team Members |
 |------|---------|----------|--------------|
 | **Team Lead** | All sections | All notebooks | Team Lead *Olayinka Yusuf* |
-| **Team A** | Exploratory Data Analysis | `01_eda_decomposition.ipynb` | Agunbiade Simbiat Mogbonjubola, Abeeb Olasupo, Chinecherem Victoria Isaac |
-| **Team B** | Stationarity & ACF/PACF | `02_stationarity_acf_pacf.ipynb` | JOHN MERCY OMETERE, Ademola Adeyemi , Odukaiye Moses |
-| **Team C** | basket_price Modelling | `03_basket_price_models.ipynb` | Ojumoola Paul, Orinya Samuel Obande, Abdulmalik Abdulrashid |
-| **Team D** | cpi_food Modelling & Forecasts | `04_cpi_food_and_forecasts.ipynb` | Maria Ebimo Ebiakofa, Fayemi Anthony Olatokunbo, @Sopuruchilizbeth |
+| **Team A** | Exploratory Data Analysis |`00_data_preprocessing_eda.ipynb` | Agunbiade Simbiat Mogbonjubola, Abeeb Olasupo, Chinecherem Victoria Isaac |
+| **Team B** | Stationarity & ACF/PACF | `01_stationarity_acf_pacf.ipynb` | JOHN MERCY OMETERE, Ademola Adeyemi , Odukaiye Moses |
+| **Team C** | basket_price Modelling | `02_basket_price_models.ipynb` | Ojumoola Paul, Orinya Samuel Obande, Abdulmalik Abdulrashid |
+| **Team D** | cpi_food Modelling & Forecasts | `03_cpi_food_and_forecasts.ipynb` | Maria Ebimo Ebiakofa, Fayemi Anthony Olatokunbo, @Sopuruchilizbeth |
 
 ### What Each Team Does
 
